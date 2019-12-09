@@ -1,0 +1,8 @@
+results/
+tfrecords/
+processed3/
+PreResNet/
+models/
+.ipynb_checkpoints
+img_align_celeba
+.DS_Store
