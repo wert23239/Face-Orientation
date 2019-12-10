@@ -1,10 +1,12 @@
 # Face Orientation Resnet Project
 ## Results
 **Face Orientation Classifier**
+
 |  |  Up| Down | Left | Right | Total|
-|--|--|--|--|--|--|
+|---|---|---|---|---|---|
 |Train Accuracy  |90%  | 80%| 60%|80% |100%|
 |Validation Accuracy  |90%  | 80%| 60%|80% |100%|
+
 These results come from running the Predict.ipynb notebook.
 
 ## Instructions
