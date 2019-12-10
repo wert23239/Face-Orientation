@@ -1,7 +1,9 @@
 results/
+checkpoints/
 tfrecords/
 processed3/
 PreResNet/
+PreResNet2/
 models/
 .ipynb_checkpoints
 img_align_celeba
